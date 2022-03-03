@@ -1,0 +1,5 @@
+*.pth
+/train
+/train_new
+/results
+/testA
